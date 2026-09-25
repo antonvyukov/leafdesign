@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 600">
+  <defs>
+    <linearGradient id="bg" x2="1" y2="1"><stop stop-color="#e9eddf"/><stop offset="1" stop-color="#d5e2d4"/></linearGradient>
+    <linearGradient id="photo" x2="1" y2="1"><stop stop-color="#b9c9a7"/><stop offset="1" stop-color="#62775e"/></linearGradient>
+  </defs>
+  <rect width="960" height="600" fill="url(#bg)"/>
+  <rect x="0" y="0" width="960" height="42" fill="#fff"/>
+  <circle cx="34" cy="21" r="10" fill="#54735c"/><path d="M31 25c1-8 6-11 13-12-1 7-4 11-13 12" fill="#edf0dc"/>
+  <text x="54" y="27" fill="#294738" font-family="Georgia,serif" font-size="17" font-weight="bold">лесная лавка</text>
+  <text x="565" y="26" fill="#4c5e50" font-family="Arial,sans-serif" font-size="11">КАТАЛОГ　 О НАС　 ДОСТАВКА</text>
+  <rect x="846" y="9" width="86" height="25" rx="12" fill="#49664e"/><text x="865" y="26" fill="white" font-family="Arial,sans-serif" font-size="10">КОРЗИНА　2</text>
+  <text x="54" y="112" fill="#6c815e" font-family="Arial,sans-serif" font-size="11" font-weight="bold" letter-spacing="2">ЭКО-ТОВАРЫ ДЛЯ ДОМА</text>
+  <text x="52" y="168" fill="#294738" font-family="Georgia,serif" font-size="43" font-weight="bold">Ближе к природе.</text>
+  <text x="54" y="202" fill="#526456" font-family="Arial,sans-serif" font-size="14">Полезные вещи с историей и заботой о планете.</text>
+  <rect x="54" y="225" width="130" height="38" rx="19" fill="#54735c"/><text x="76" y="249" fill="white" font-family="Arial,sans-serif" font-size="12" font-weight="bold">В магазин　→</text>
+  <rect x="528" y="66" width="378" height="222" rx="16" fill="url(#photo)"/>
+  <circle cx="750" cy="177" r="79" fill="#d5d5a8" opacity=".8"/><path d="M530 244Q602 181 671 237t119-10 116 19v42H530z" fill="#4e6a4f"/><path d="M597 230q-12-96 55-120 19 64-55 120m22 10q3-83 80-90-7 60-80 90m-23-2q-48-72-20-119 53 49 20 119" fill="#e4e9cd" opacity=".92"/>
+  <text x="54" y="333" fill="#294738" font-family="Georgia,serif" font-size="23" font-weight="bold">Выбирают для жизни</text>
+  <g font-family="Arial,sans-serif">
+    <rect x="54" y="354" width="198" height="178" rx="12" fill="#fff"/><rect x="66" y="366" width="174" height="104" rx="8" fill="#e4e9d8"/><rect x="126" y="389" width="54" height="66" rx="13" fill="#b78661"/><rect x="134" y="380" width="38" height="17" rx="7" fill="#d9c39a"/><path d="M151 386q-5-25 15-31m-15 31q-20-24-30-10" fill="none" stroke="#577257" stroke-width="4"/><text x="68" y="493" fill="#314b39" font-size="12" font-weight="bold">Набор для кухни</text><text x="68" y="516" fill="#758174" font-size="11">1 490 ₽</text>
+    <rect x="265" y="354" width="198" height="178" rx="12" fill="#fff"/><rect x="277" y="366" width="174" height="104" rx="8" fill="#e9dfd0"/><rect x="330" y="394" width="68" height="55" rx="14" fill="#879778"/><path d="M340 395q-8-27 9-34m18 34q-2-29 23-34" fill="none" stroke="#53684c" stroke-width="4"/><text x="279" y="493" fill="#314b39" font-size="12" font-weight="bold">Керамика ручной работы</text><text x="279" y="516" fill="#758174" font-size="11">2 200 ₽</text>
+    <rect x="476" y="354" width="198" height="178" rx="12" fill="#fff"/><rect x="488" y="366" width="174" height="104" rx="8" fill="#dde5d7"/><rect x="547" y="389" width="54" height="67" rx="12" fill="#d1b878"/><path d="M563 390q-5-25 16-34m-13 34q-20-22-31-8" fill="none" stroke="#65815e" stroke-width="4"/><text x="490" y="493" fill="#314b39" font-size="12" font-weight="bold">Свеча «Сосновый лес»</text><text x="490" y="516" fill="#758174" font-size="11">890 ₽</text>
+    <rect x="687" y="354" width="219" height="178" rx="12" fill="#fff"/><rect x="699" y="366" width="195" height="104" rx="8" fill="#e8e2cd"/><circle cx="795" cy="418" r="28" fill="#bf9d67"/><path d="M795 393q-6-20 7-28m-6 39q-20-20-29-8m39 18q13-20 26-16" fill="none" stroke="#54735c" stroke-width="5"/><text x="701" y="493" fill="#314b39" font-size="12" font-weight="bold">Натуральная косметика</text><text x="701" y="516" fill="#758174" font-size="11">от 650 ₽</text>
+  </g>
+  <text x="54" y="574" fill="#758174" font-family="Arial,sans-serif" font-size="10">КОНЦЕПТ ИНТЕРНЕТ-МАГАЗИНА　 ·　 ДИЗАЙН-ПРОЕКТ</text>
+</svg>
